@@ -1,3 +1,9 @@
+python-jsonrpclib (0.1.3-2) UNRELEASED; urgency=low
+
+  * Fixed debian/rules URL of git://github.com/joshmarshall/jsonrpclib.git.
+
+ -- Thomas Goirand <zigo@debian.org>  Thu, 08 Aug 2013 22:20:10 +0200
+
 python-jsonrpclib (0.1.3-1) unstable; urgency=low
 
   * Initial release (Closes: #714248).
