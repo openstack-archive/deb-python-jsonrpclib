@@ -10,8 +10,8 @@ Uploaders: Loic Dachary (OuoU) <loic@debian.org>,
 Build-Depends: debhelper (>= 9), python-setuptools, python-all (>= 2.6.6-3~), openstack-pkg-tools
 Build-Depends-Indep: python-simplejson
 Standards-Version: 3.9.4
-Vcs-Browser: http://anonscm.debian.org/gitweb/?p=openstack/python-jsonrpclib.git
-Vcs-Git: git://anonscm.debian.org/openstack/python-jsonrpclib.git
+Vcs-Browser: https://anonscm.debian.org/cgit/openstack/python-jsonrpclib.git/
+Vcs-Git: https://anonscm.debian.org/git/openstack/python-jsonrpclib.git
 Homepage: https://pypi.python.org/pypi/jsonrpclib
 
 Package: python-jsonrpclib
