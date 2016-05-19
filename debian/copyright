@@ -1,6 +1,6 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: jsonrpclib
-Source: git://github.com/joshmarshall/jsonrpclib.git
+Source: https://github.com/joshmarshall/jsonrpclib
 
 Files: debian/*
 Copyright: (c) 2013, Thomas Goirand <zigo@debian.org>
